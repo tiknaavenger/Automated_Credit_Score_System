@@ -69,7 +69,7 @@ app/
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/tiknaavenger/Automated_Credit_Score_System.git
+   git clone https://github.com/MindMatrixPro/Automated_Credit_Score_System.git
    cd credit-score-system
    ```
 
